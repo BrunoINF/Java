@@ -1,0 +1,63 @@
+public class ... {
+    public static void main(String[] args) throws Exception{
+	}
+}
+==========================================================================================================================
+												Para inicio de JAVA
+==========================================================================================================================
+ System.out.println
+==========================================================================================================================
+												Para escrita
+Ex: System.out.println("Hello World!!!");
+==========================================================================================================================
+If/Else
+==========================================================================================================================
+												Para Condições
+Ex: System.out.println("dia");
+dia = var .nextFloat();
+ if{ 
+	dia(1>=1)
+	System.out.println("dia1");
+ } else if{
+	dia(1<1)
+	System.out.println("dia2");
+ }
+==========================================================================================================================
+Int, String, Float
+==========================================================================================================================
+						     Para numeros inteiros, para escrita, para numeros reais Respectivamente
+==========================================================================================================================
+While, Do, For
+==========================================================================================================================
+O programa só vai rodar em condições determinidas caso queira rodar ate uma certo numero de vezes usar ++ 
+do lado da variavel, condição acontecer ao minimo uma vez, é mais facil de escrever o codigo
+
+Ex: int contador=0;
+while(contador<5) {
+	System.out.print("olá, ");
+	contador++;
+} do{
+	System.out.print("Oiiii");
+}
+	System.out.print ();
+	for(int i=0, i<5, i++)
+		System.out.print("olá, ");
+==========================================================================================================================
+swith, case, default
+==========================================================================================================================
+						Usado para casos, não se enquadra, sempre usar break para finalizar
+Ex:
+swith(exemplo){
+	case1:
+	System.out.print("Oiiii");
+	break;
+	
+	case2:
+	System.out.print("Olaaa");
+	break;
+	
+	default:
+	System.out.print("Não");
+	break;
+}
+==========================================================================================================================
